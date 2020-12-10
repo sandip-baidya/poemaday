@@ -1,0 +1,47 @@
+---
+layout: default
+---
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <div class="post-line"></div>
+  <div class="post-info">
+    {% if page.poet %}
+    <span>Poet in consideration: {{page.poet}}</span>
+    {% endif %}
+    <br>
+    {% if page.author %}
+      <span>Written by</span>
+      {{ page.author }}
+    {% endif %}
+
+    {% if page.date %}
+      <br>
+      <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+    {% endif %}
+  </div>
+  <br>
+
+  {% if page.image %}
+  <div class="float-left" style="width: {{ page.width }}%" >
+    <img src="{{page.image}}">
+  </div>
+  {% endif %}
+
+  {{ content }}
+</div>
+
+{% if page.comments %}
+  {% include disqus_comments.html %}
+{% endif %}
+
+<div class="pagination">
+  {% if page.next.url %}
+    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+  {% endif %}
+  {% if page.previous.url %}
+    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+  {% endif %}
+
+  <a href="#" class="top">Top</a>
+
+</div>
