@@ -1,6 +1,9 @@
 # Site settings
 title:          poemADAY
 description:    "A blog: Teach, Talk and Learn Poetry"
+baseurl:        "/poemaday"
+url:            "https://sandip-baidya.github.io"
+
 
 # Author
 author:

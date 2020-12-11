@@ -23,7 +23,7 @@ layout: default
 
   {% if page.image %}
   <div class="float-left" style="width: {{ page.width }}%" >
-    <img id="poem-img" src="{{page.image}}">
+    <img id="poem-img" src="{{ page.image | prepend: site.baseurl }}">
     <h4 style="text-align: center; font-style: italic;">Reference : {{ page.reference }}</h4>
   </div>
   {% endif %}
