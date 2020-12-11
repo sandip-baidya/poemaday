@@ -36,3 +36,6 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 # Disqus (Set to your disqus id)
 disqus: poemaday-1
+
+# Google Analytics
+google_analytics: G-HVRFSZQQPD

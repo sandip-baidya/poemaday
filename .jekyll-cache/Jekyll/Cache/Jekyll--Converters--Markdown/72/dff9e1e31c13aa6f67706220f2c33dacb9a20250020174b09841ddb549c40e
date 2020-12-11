@@ -1,83 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-  <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Welcome to PoemADAY | poemADAY</title>
-<meta name="generator" content="Jekyll v4.1.1" />
-<meta property="og:title" content="Welcome to PoemADAY" />
-<meta name="author" content="Sandip Baidya" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="A blog: Teach, Talk and Learn Poetry" />
-<meta property="og:description" content="A blog: Teach, Talk and Learn Poetry" />
-<link rel="canonical" href="http://localhost:4000/poemaday/about/" />
-<meta property="og:url" content="http://localhost:4000/poemaday/about/" />
-<meta property="og:site_name" content="poemADAY" />
-<meta property="og:image" content="http://localhost:4000/poemaday/assets/images/headshot.png" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://localhost:4000/poemaday/assets/images/headshot.png" />
-<meta property="twitter:title" content="Welcome to PoemADAY" />
-<script type="application/ld+json">
-{"@type":"WebSite","image":"http://localhost:4000/poemaday/assets/images/headshot.png","url":"http://localhost:4000/poemaday/about/","author":{"@type":"Person","name":"Sandip Baidya"},"headline":"Welcome to PoemADAY","description":"A blog: Teach, Talk and Learn Poetry","name":"poemADAY","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-
-  <!-- CSS -->
-  <link rel="stylesheet" href="/poemaday/assets/main.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
-
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" sizes="32x32" href="/poemaday/assets/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/poemaday/assets/favicon-16x16.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/poemaday/assets/apple-touch-icon.png">
-
-  <!-- RSS -->
-  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/poemaday/feed.xml" title="poemADAY" />
-
-  <!-- Google Analytics-->
-  
-</head>
-
-
-  <body>
-
-    <nav class="nav">
-  <div class="nav-container">
-    <a href="/poemaday/">
-      <h2 class="nav-title">poemADAY</h2>
-    </a>
-    <ul>
-      <li><a href="/poemaday/">Posts</a></li>
-      <li><a href="/poemaday/tags">Tags</a></li>
-      <li><a href="/poemaday/about">About</a></li>
-    </ul>
-  </div>
-</nav>
-
-
-    <main>
-      <div class="post">
-  <h1 class="post-title">Welcome to PoemADAY</h1>
-  <div class="post-line"></div>
-  <div class="post-info">
-    
-    <br>
-    
-
-    
-  </div>
-  <br>
-
-  
-  <div class="float-left" style="width: 38%" >
-    <img src="/poemaday/assets/images/headshot.png">
-  </div>
-  
-
-  <table>
+I"’<table>
   <tbody>
     <tr>
       <td><strong>Hello everyone!</strong></td>
@@ -88,18 +9,10 @@
   </tbody>
 </table>
 
-<hr style="border:0.1rem dotted #212F3D; background: #212F3D;" />
+<hr style="border:0.1rem solid #212F3D; background: #212F3D;" />
 
-<table>
-  <tbody>
-    <tr>
-      <td><strong>Email me @<a href="mailto:sandipbaidya17@gmail.com">sandipbaidya17@gmail.com</a></strong></td>
-    </tr>
-    <tr>
-      <td><strong>Instagram @<a href="https://www.instagram.com/sand.ip/">sand.ip</a></strong></td>
-    </tr>
-  </tbody>
-</table>
+<p>Email me @<a href="mailto:sandipbaidya17@gmail.com">sandipbaidya17@gmail.com</a>
+Instagram @<a href="https://www.instagram.com/sand.ip/">https://www.instagram.com/sand.ip/</a></p>
 
 <h2 id="what-is-poemaday">What is poemADAY</h2>
 
@@ -124,26 +37,4 @@
   <li>Make email-friends</li>
   <li>Build community (oh yeah, nothing like the rush that building a community gives no? hahahahahaha, meh)</li>
 </ol>
-
-</div>
-
-
-
-<div class="pagination">
-  
-  
-
-  <a href="#" class="top">Top</a>
-
-</div>
-
-    </main>
-
-    <footer>
-  <span>
-    &copy; <time datetime="2020-12-11 13:50:39 +0530">2020</time> Sandip Baidya.
-  </span>
-</footer>
-
-  </body>
-</html>
+:ET

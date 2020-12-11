@@ -8,7 +8,11 @@ comments: false
 ---
 
 |**Hello everyone!**
-| I'm Sandip Baidya and as you can see, to your left, I've attached a big smiling photo of myself. I've done so because when you read the posts on this blog, I want those words to have a face. Here's an Indian nobody, bringing to you poetry.
+|I'm Sandip Baidya and as you can see, to your left, I've attached a big smiling photo of myself. I've done so because when you read the posts on this blog, I want those words to have a face. Here's an Indian nobody, bringing to you poetry.
+
+<hr style="border:0.1rem dotted #212F3D; background: #212F3D;">
+|**Email me @<sandipbaidya17@gmail.com>**
+|**Instagram @[sand.ip](https://www.instagram.com/sand.ip/)**
 
 ## What is poemADAY
 

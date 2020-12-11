@@ -23,7 +23,7 @@ layout: default
 
   {% if page.image %}
   <div class="float-left" style="width: {{ page.width }}%" >
-    <img src="{{page.image}}">
+    <img src="{{ page.image | prepend: site.baseurl }}">
   </div>
   {% endif %}
 
