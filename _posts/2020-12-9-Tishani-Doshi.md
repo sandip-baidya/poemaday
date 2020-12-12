@@ -4,13 +4,15 @@ title: "Whatever it takes to be happy"
 author: "Sandip Baidya"
 tags: Tishani-Doshi
 poet: Tishani Doshi
-reference: Poetry Foundation
-image: /assets/images/2020-12-9-Tishani-Doshi.png
+reference: Google Images
+image: /assets/images/2020-12-9-Tishani-Doshi.jpg
 width: 50
 comments: true
 ---
 
-The title is the most interesting part with the promise of an end goal--happiness. The poem breaks out into a very poetic list of things that you are advised to do. I wonder if each of these things in the list carry an individual power to make you happy or whether only upon the completion of all the tasks in the list, could you achieve happiness. 
+## "How To Be Happy In 101 Days"
+
+The title is the most interesting part with the promise of an end goal--happiness. The poem breaks out into a very poetic list of things that you are advised to do. I wonder if each of these things in the list carry an individual power to make you happy or whether only upon the completion of all the tasks in the list, could you achieve happiness. Read [poem](https://www.poetryfoundation.org/poems/152737/how-to-be-happy-in-101-days).
 
 The list starts by demanding something that feels very simple on the face of it; ``adore stone`` as if asking you to love someone immobile, someone very wooden and boring and incompatible with yourself. Throughout this first stanza, Doshi is advising us to give time to something or someone that you generally find less entertaining.
 
