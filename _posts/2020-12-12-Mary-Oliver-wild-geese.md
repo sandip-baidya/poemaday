@@ -5,7 +5,7 @@ author: "Sandip Baidya"
 tags: Mary-Oliver
 poet: Mary Oliver
 reference: Pexel.com Images
-image: /assets/images/2020-12-12-Mary-Oliver-wild-geese.jpg
+image: /assets/images/2020-12-12-Mary-Oliver-Wild-geese.jpg
 width: 50
 comments: true
 ---
@@ -35,7 +35,7 @@ Then she takes you back to the nature. Teleportation working like magic in secon
 
 This connection that she attempts to create between the expansive nature and the readers is something I truly cherish. I find great joy in losing myself in nature and every single time, I wish I could see through the eyes of the wild animals that dwell forever in it. This year when I visited my hometown in Tripura, the ground beneath me shook and I felt bewitched at the wild unravelling in front of me. It felt like I couldn't ever belong. That if I ever did belong, I could only, by being something unhuman. **A goose perhaps**.
 
-![]({{ site.baseurl }}/assets/images/2020-12-12-Mary-Oliver-wild-geese-2.jpg){:class="img-responsive"}
+![]({{ site.baseurl }}/assets/images/2020-12-12-Mary-Oliver-Wild-geese-2.jpg){:class="img-responsive"}
 
 	Meanwhile the wild geese, high in the clean blue air,
 	are heading home again.
