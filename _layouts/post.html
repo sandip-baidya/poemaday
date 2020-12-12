@@ -24,7 +24,9 @@ layout: default
   {% if page.image %}
   <div class="float-left" style="width: {{ page.width }}%" >
     <img id="poem-img" src="{{ page.image | prepend: site.baseurl }}">
+    {% if page.reference %}
     <h4 style="text-align: center; font-style: italic;">Source: {{ page.reference }}</h4>
+    {% endif %}
   </div>
   {% endif %}
 
