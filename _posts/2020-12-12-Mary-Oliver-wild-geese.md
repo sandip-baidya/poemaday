@@ -4,7 +4,7 @@ title: "Mary Oliver Writes for the wild heart"
 author: "Sandip Baidya"
 tags: Mary-Oliver
 poet: Mary Oliver
-reference: Pexel.com Images
+reference: Pexels.com Images
 image: /assets/images/2020-12-12-Mary-Oliver-Wild-geese.jpg
 width: 50
 comments: true
