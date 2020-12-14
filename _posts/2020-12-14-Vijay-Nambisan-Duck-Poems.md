@@ -11,7 +11,7 @@ comments: true
 ---
 
 ###  1. Buoyancy
----------
+
 Have you ever noticed that you're wandering with music in ears somewhere quiet in a park with very few people around and suddenly you feel legless? And then you get curious because you can't possibly be taking this long, beautiful and serene walk without legs! You probably feel what the ducks feel and Vijay Nambisan (a brilliant poet I discovered yesterday) captures this stunningly in his poem *[Duck Poems](http://poetry.sangamhouse.org/2016/07/duck-poems-by-vijay-nambisan/)* :
 
 	Ducks have, in water, a feeling that they are  
