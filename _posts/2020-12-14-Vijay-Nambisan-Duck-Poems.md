@@ -4,7 +4,7 @@ title: "Vijay Nambisan has made ducks mysterious for me"
 author: "Sandip Baidya"
 tags: Vijay-Nambisan
 poet: Vijay Nambisan
-reference: Pexels.com Images
+reference: Source- Pexels.com Images
 image: /assets/images/2020-12-14-Vijay-Nambisan-ducks-1.jpg
 width: 50
 comments: true

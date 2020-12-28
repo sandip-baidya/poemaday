@@ -4,7 +4,7 @@ title: "Whatever it takes to be happy"
 author: "Sandip Baidya"
 tags: Tishani-Doshi
 poet: Tishani Doshi
-reference: Google Images
+reference: Source- Google Images
 image: /assets/images/2020-12-9-Tishani-Doshi.jpg
 width: 50
 comments: true
